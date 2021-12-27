@@ -7,6 +7,7 @@ import CardMedia from '@material-ui/core/CardMedia'
 import Button from '@material-ui/core/Button'
 import Typography from '@material-ui/core/Typography'
 import CardItemViewStyle from './card_item_view_style'
+
 interface CarCardItemView {
   make: string
   model: string
@@ -17,6 +18,9 @@ interface CarCardItemView {
 export default function CarItemView(props: CarCardItemView) {
   const classes = CardItemViewStyle()
   const { make, model, price, imageUrl } = props
+  const learnMore = (url: string) => {
+    window.location.href = url
+  }
 
   return (
     <Card className={classes.root}>
@@ -39,7 +43,13 @@ export default function CarItemView(props: CarCardItemView) {
         </CardContent>
       </CardActionArea>
       <CardActions>
-        <Button size="small" color="primary">
+        <Button
+          size="small"
+          color="primary"
+          onClick={() => {
+            learnMore(imageUrl)
+          }}
+        >
           Learn More
         </Button>
       </CardActions>
