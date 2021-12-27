@@ -1,0 +1,1084 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test CarListView Component Renders correctly  CarListView component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <div
+          class="MuiGrid-root-3 makeStyles-root-0 MuiGrid-container-4 MuiGrid-spacing-xs-2-27"
+        >
+          <div
+            class="MuiGrid-root-3 MuiGrid-item-5 MuiGrid-grid-xs-12-49"
+          >
+            <div
+              class="MuiGrid-root-3 MuiGrid-container-4 MuiGrid-spacing-xs-2-27 MuiGrid-justify-content-xs-center-21"
+            >
+              <div
+                class="MuiGrid-root-3 MuiGrid-item-5"
+              >
+                <div
+                  class="MuiPaper-root-110 MuiCard-root-109 makeStyles-root-106 MuiPaper-elevation1-114 MuiPaper-rounded-111"
+                >
+                  <button
+                    class="MuiButtonBase-root-141 MuiCardActionArea-root-138"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <div
+                      class="MuiCardMedia-root-144 makeStyles-media-107"
+                      style="background-image: url(https://cdn.pixabay.com/photo/2016/04/01/12/16/car-1300629_960_720.png);"
+                      title="Contemplative Reptile"
+                    />
+                    <div
+                      class="MuiCardContent-root-147"
+                    >
+                      <h2
+                        class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                      >
+                        Porsche
+                      </h2>
+                      <h2
+                        class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                      >
+                        911
+                      </h2>
+                      <p
+                        class="MuiTypography-root-148 makeStyles-pos-108 MuiTypography-body1-150 MuiTypography-colorTextSecondary-174"
+                      >
+                        $ 135000
+                      </p>
+                    </div>
+                    <span
+                      class="MuiCardActionArea-focusHighlight-140"
+                    />
+                    <span
+                      class="MuiTouchRipple-root-209"
+                    />
+                  </button>
+                  <div
+                    class="MuiCardActions-root-178 MuiCardActions-spacing-179"
+                  >
+                    <button
+                      class="MuiButtonBase-root-141 MuiButton-root-180 MuiButton-text-182 MuiButton-textPrimary-183 MuiButton-textSizeSmall-195 MuiButton-sizeSmall-201"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label-181"
+                      >
+                        Learn More
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root-209"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiGrid-root-3 MuiGrid-item-5"
+              >
+                <div
+                  class="MuiPaper-root-110 MuiCard-root-109 makeStyles-root-106 MuiPaper-elevation1-114 MuiPaper-rounded-111"
+                >
+                  <button
+                    class="MuiButtonBase-root-141 MuiCardActionArea-root-138"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <div
+                      class="MuiCardMedia-root-144 makeStyles-media-107"
+                      style="background-image: url(https://cdn.pixabay.com/photo/2020/01/26/18/52/porsche-4795517_960_720.jpg);"
+                      title="Contemplative Reptile"
+                    />
+                    <div
+                      class="MuiCardContent-root-147"
+                    >
+                      <h2
+                        class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                      >
+                        Tesla
+                      </h2>
+                      <h2
+                        class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                      >
+                        Model S
+                      </h2>
+                      <p
+                        class="MuiTypography-root-148 makeStyles-pos-108 MuiTypography-body1-150 MuiTypography-colorTextSecondary-174"
+                      >
+                        $ 100000
+                      </p>
+                    </div>
+                    <span
+                      class="MuiCardActionArea-focusHighlight-140"
+                    />
+                    <span
+                      class="MuiTouchRipple-root-209"
+                    />
+                  </button>
+                  <div
+                    class="MuiCardActions-root-178 MuiCardActions-spacing-179"
+                  >
+                    <button
+                      class="MuiButtonBase-root-141 MuiButton-root-180 MuiButton-text-182 MuiButton-textPrimary-183 MuiButton-textSizeSmall-195 MuiButton-sizeSmall-201"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label-181"
+                      >
+                        Learn More
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root-209"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiGrid-root-3 MuiGrid-item-5"
+              >
+                <div
+                  class="MuiPaper-root-110 MuiCard-root-109 makeStyles-root-106 MuiPaper-elevation1-114 MuiPaper-rounded-111"
+                >
+                  <button
+                    class="MuiButtonBase-root-141 MuiCardActionArea-root-138"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <div
+                      class="MuiCardMedia-root-144 makeStyles-media-107"
+                      style="background-image: url(https://cdn.pixabay.com/photo/2021/09/08/17/45/porsche-6607502_960_720.jpg);"
+                      title="Contemplative Reptile"
+                    />
+                    <div
+                      class="MuiCardContent-root-147"
+                    >
+                      <h2
+                        class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                      >
+                        Tesla
+                      </h2>
+                      <h2
+                        class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                      >
+                        Model X
+                      </h2>
+                      <p
+                        class="MuiTypography-root-148 makeStyles-pos-108 MuiTypography-body1-150 MuiTypography-colorTextSecondary-174"
+                      >
+                        $ 120000
+                      </p>
+                    </div>
+                    <span
+                      class="MuiCardActionArea-focusHighlight-140"
+                    />
+                    <span
+                      class="MuiTouchRipple-root-209"
+                    />
+                  </button>
+                  <div
+                    class="MuiCardActions-root-178 MuiCardActions-spacing-179"
+                  >
+                    <button
+                      class="MuiButtonBase-root-141 MuiButton-root-180 MuiButton-text-182 MuiButton-textPrimary-183 MuiButton-textSizeSmall-195 MuiButton-sizeSmall-201"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label-181"
+                      >
+                        Learn More
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root-209"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiGrid-root-3 MuiGrid-item-5"
+              >
+                <div
+                  class="MuiPaper-root-110 MuiCard-root-109 makeStyles-root-106 MuiPaper-elevation1-114 MuiPaper-rounded-111"
+                >
+                  <button
+                    class="MuiButtonBase-root-141 MuiCardActionArea-root-138"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <div
+                      class="MuiCardMedia-root-144 makeStyles-media-107"
+                      style="background-image: url(https://cdn.pixabay.com/photo/2017/04/05/15/36/auto-2205316_960_720.jpg);"
+                      title="Contemplative Reptile"
+                    />
+                    <div
+                      class="MuiCardContent-root-147"
+                    >
+                      <h2
+                        class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                      >
+                        Porsche
+                      </h2>
+                      <h2
+                        class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                      >
+                        Cayenne Turbo
+                      </h2>
+                      <p
+                        class="MuiTypography-root-148 makeStyles-pos-108 MuiTypography-body1-150 MuiTypography-colorTextSecondary-174"
+                      >
+                        $ 11000
+                      </p>
+                    </div>
+                    <span
+                      class="MuiCardActionArea-focusHighlight-140"
+                    />
+                    <span
+                      class="MuiTouchRipple-root-209"
+                    />
+                  </button>
+                  <div
+                    class="MuiCardActions-root-178 MuiCardActions-spacing-179"
+                  >
+                    <button
+                      class="MuiButtonBase-root-141 MuiButton-root-180 MuiButton-text-182 MuiButton-textPrimary-183 MuiButton-textSizeSmall-195 MuiButton-sizeSmall-201"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label-181"
+                      >
+                        Learn More
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root-209"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiGrid-root-3 MuiGrid-item-5"
+              >
+                <div
+                  class="MuiPaper-root-110 MuiCard-root-109 makeStyles-root-106 MuiPaper-elevation1-114 MuiPaper-rounded-111"
+                >
+                  <button
+                    class="MuiButtonBase-root-141 MuiCardActionArea-root-138"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <div
+                      class="MuiCardMedia-root-144 makeStyles-media-107"
+                      style="background-image: url(https://media.istockphoto.com/photos/porsche-911-low-key-in-black-and-white-picture-id492578314);"
+                      title="Contemplative Reptile"
+                    />
+                    <div
+                      class="MuiCardContent-root-147"
+                    >
+                      <h2
+                        class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                      >
+                        Nissan
+                      </h2>
+                      <h2
+                        class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                      >
+                        GT-R
+                      </h2>
+                      <p
+                        class="MuiTypography-root-148 makeStyles-pos-108 MuiTypography-body1-150 MuiTypography-colorTextSecondary-174"
+                      >
+                        $ 80000
+                      </p>
+                    </div>
+                    <span
+                      class="MuiCardActionArea-focusHighlight-140"
+                    />
+                    <span
+                      class="MuiTouchRipple-root-209"
+                    />
+                  </button>
+                  <div
+                    class="MuiCardActions-root-178 MuiCardActions-spacing-179"
+                  >
+                    <button
+                      class="MuiButtonBase-root-141 MuiButton-root-180 MuiButton-text-182 MuiButton-textPrimary-183 MuiButton-textSizeSmall-195 MuiButton-sizeSmall-201"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label-181"
+                      >
+                        Learn More
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root-209"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiGrid-root-3 MuiGrid-item-5"
+              >
+                <div
+                  class="MuiPaper-root-110 MuiCard-root-109 makeStyles-root-106 MuiPaper-elevation1-114 MuiPaper-rounded-111"
+                >
+                  <button
+                    class="MuiButtonBase-root-141 MuiCardActionArea-root-138"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <div
+                      class="MuiCardMedia-root-144 makeStyles-media-107"
+                      style="background-image: url(https://cdn.pixabay.com/photo/2020/10/18/16/40/bmw-5665352_960_720.jpg);"
+                      title="Contemplative Reptile"
+                    />
+                    <div
+                      class="MuiCardContent-root-147"
+                    >
+                      <h2
+                        class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                      >
+                        BMW
+                      </h2>
+                      <h2
+                        class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                      >
+                        M3
+                      </h2>
+                      <p
+                        class="MuiTypography-root-148 makeStyles-pos-108 MuiTypography-body1-150 MuiTypography-colorTextSecondary-174"
+                      >
+                        $ 60500
+                      </p>
+                    </div>
+                    <span
+                      class="MuiCardActionArea-focusHighlight-140"
+                    />
+                    <span
+                      class="MuiTouchRipple-root-209"
+                    />
+                  </button>
+                  <div
+                    class="MuiCardActions-root-178 MuiCardActions-spacing-179"
+                  >
+                    <button
+                      class="MuiButtonBase-root-141 MuiButton-root-180 MuiButton-text-182 MuiButton-textPrimary-183 MuiButton-textSizeSmall-195 MuiButton-sizeSmall-201"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label-181"
+                      >
+                        Learn More
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root-209"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiGrid-root-3 MuiGrid-item-5"
+              >
+                <div
+                  class="MuiPaper-root-110 MuiCard-root-109 makeStyles-root-106 MuiPaper-elevation1-114 MuiPaper-rounded-111"
+                >
+                  <button
+                    class="MuiButtonBase-root-141 MuiCardActionArea-root-138"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <div
+                      class="MuiCardMedia-root-144 makeStyles-media-107"
+                      style="background-image: url(http://www.blogcdn.com/www.autoblog.com/media/2012/11/001-2013-audi-s5-coupe.jpg);"
+                      title="Contemplative Reptile"
+                    />
+                    <div
+                      class="MuiCardContent-root-147"
+                    >
+                      <h2
+                        class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                      >
+                        Audi
+                      </h2>
+                      <h2
+                        class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                      >
+                        S5
+                      </h2>
+                      <p
+                        class="MuiTypography-root-148 makeStyles-pos-108 MuiTypography-body1-150 MuiTypography-colorTextSecondary-174"
+                      >
+                        $ 53000
+                      </p>
+                    </div>
+                    <span
+                      class="MuiCardActionArea-focusHighlight-140"
+                    />
+                    <span
+                      class="MuiTouchRipple-root-209"
+                    />
+                  </button>
+                  <div
+                    class="MuiCardActions-root-178 MuiCardActions-spacing-179"
+                  >
+                    <button
+                      class="MuiButtonBase-root-141 MuiButton-root-180 MuiButton-text-182 MuiButton-textPrimary-183 MuiButton-textSizeSmall-195 MuiButton-sizeSmall-201"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label-181"
+                      >
+                        Learn More
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root-209"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiGrid-root-3 MuiGrid-item-5"
+              >
+                <div
+                  class="MuiPaper-root-110 MuiCard-root-109 makeStyles-root-106 MuiPaper-elevation1-114 MuiPaper-rounded-111"
+                >
+                  <button
+                    class="MuiButtonBase-root-141 MuiCardActionArea-root-138"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <div
+                      class="MuiCardMedia-root-144 makeStyles-media-107"
+                      style="background-image: url(https://cdn.pixabay.com/photo/2015/01/19/13/51/car-604019_960_720.jpg);"
+                      title="Contemplative Reptile"
+                    />
+                    <div
+                      class="MuiCardContent-root-147"
+                    >
+                      <h2
+                        class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                      >
+                        Audi
+                      </h2>
+                      <h2
+                        class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                      >
+                        TT
+                      </h2>
+                      <p
+                        class="MuiTypography-root-148 makeStyles-pos-108 MuiTypography-body1-150 MuiTypography-colorTextSecondary-174"
+                      >
+                        $ 40000
+                      </p>
+                    </div>
+                    <span
+                      class="MuiCardActionArea-focusHighlight-140"
+                    />
+                    <span
+                      class="MuiTouchRipple-root-209"
+                    />
+                  </button>
+                  <div
+                    class="MuiCardActions-root-178 MuiCardActions-spacing-179"
+                  >
+                    <button
+                      class="MuiButtonBase-root-141 MuiButton-root-180 MuiButton-text-182 MuiButton-textPrimary-183 MuiButton-textSizeSmall-195 MuiButton-sizeSmall-201"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label-181"
+                      >
+                        Learn More
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root-209"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div
+        class="MuiGrid-root-3 makeStyles-root-0 MuiGrid-container-4 MuiGrid-spacing-xs-2-27"
+      >
+        <div
+          class="MuiGrid-root-3 MuiGrid-item-5 MuiGrid-grid-xs-12-49"
+        >
+          <div
+            class="MuiGrid-root-3 MuiGrid-container-4 MuiGrid-spacing-xs-2-27 MuiGrid-justify-content-xs-center-21"
+          >
+            <div
+              class="MuiGrid-root-3 MuiGrid-item-5"
+            >
+              <div
+                class="MuiPaper-root-110 MuiCard-root-109 makeStyles-root-106 MuiPaper-elevation1-114 MuiPaper-rounded-111"
+              >
+                <button
+                  class="MuiButtonBase-root-141 MuiCardActionArea-root-138"
+                  tabindex="0"
+                  type="button"
+                >
+                  <div
+                    class="MuiCardMedia-root-144 makeStyles-media-107"
+                    style="background-image: url(https://cdn.pixabay.com/photo/2016/04/01/12/16/car-1300629_960_720.png);"
+                    title="Contemplative Reptile"
+                  />
+                  <div
+                    class="MuiCardContent-root-147"
+                  >
+                    <h2
+                      class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                    >
+                      Porsche
+                    </h2>
+                    <h2
+                      class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                    >
+                      911
+                    </h2>
+                    <p
+                      class="MuiTypography-root-148 makeStyles-pos-108 MuiTypography-body1-150 MuiTypography-colorTextSecondary-174"
+                    >
+                      $ 135000
+                    </p>
+                  </div>
+                  <span
+                    class="MuiCardActionArea-focusHighlight-140"
+                  />
+                  <span
+                    class="MuiTouchRipple-root-209"
+                  />
+                </button>
+                <div
+                  class="MuiCardActions-root-178 MuiCardActions-spacing-179"
+                >
+                  <button
+                    class="MuiButtonBase-root-141 MuiButton-root-180 MuiButton-text-182 MuiButton-textPrimary-183 MuiButton-textSizeSmall-195 MuiButton-sizeSmall-201"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiButton-label-181"
+                    >
+                      Learn More
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root-209"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root-3 MuiGrid-item-5"
+            >
+              <div
+                class="MuiPaper-root-110 MuiCard-root-109 makeStyles-root-106 MuiPaper-elevation1-114 MuiPaper-rounded-111"
+              >
+                <button
+                  class="MuiButtonBase-root-141 MuiCardActionArea-root-138"
+                  tabindex="0"
+                  type="button"
+                >
+                  <div
+                    class="MuiCardMedia-root-144 makeStyles-media-107"
+                    style="background-image: url(https://cdn.pixabay.com/photo/2020/01/26/18/52/porsche-4795517_960_720.jpg);"
+                    title="Contemplative Reptile"
+                  />
+                  <div
+                    class="MuiCardContent-root-147"
+                  >
+                    <h2
+                      class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                    >
+                      Tesla
+                    </h2>
+                    <h2
+                      class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                    >
+                      Model S
+                    </h2>
+                    <p
+                      class="MuiTypography-root-148 makeStyles-pos-108 MuiTypography-body1-150 MuiTypography-colorTextSecondary-174"
+                    >
+                      $ 100000
+                    </p>
+                  </div>
+                  <span
+                    class="MuiCardActionArea-focusHighlight-140"
+                  />
+                  <span
+                    class="MuiTouchRipple-root-209"
+                  />
+                </button>
+                <div
+                  class="MuiCardActions-root-178 MuiCardActions-spacing-179"
+                >
+                  <button
+                    class="MuiButtonBase-root-141 MuiButton-root-180 MuiButton-text-182 MuiButton-textPrimary-183 MuiButton-textSizeSmall-195 MuiButton-sizeSmall-201"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiButton-label-181"
+                    >
+                      Learn More
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root-209"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root-3 MuiGrid-item-5"
+            >
+              <div
+                class="MuiPaper-root-110 MuiCard-root-109 makeStyles-root-106 MuiPaper-elevation1-114 MuiPaper-rounded-111"
+              >
+                <button
+                  class="MuiButtonBase-root-141 MuiCardActionArea-root-138"
+                  tabindex="0"
+                  type="button"
+                >
+                  <div
+                    class="MuiCardMedia-root-144 makeStyles-media-107"
+                    style="background-image: url(https://cdn.pixabay.com/photo/2021/09/08/17/45/porsche-6607502_960_720.jpg);"
+                    title="Contemplative Reptile"
+                  />
+                  <div
+                    class="MuiCardContent-root-147"
+                  >
+                    <h2
+                      class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                    >
+                      Tesla
+                    </h2>
+                    <h2
+                      class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                    >
+                      Model X
+                    </h2>
+                    <p
+                      class="MuiTypography-root-148 makeStyles-pos-108 MuiTypography-body1-150 MuiTypography-colorTextSecondary-174"
+                    >
+                      $ 120000
+                    </p>
+                  </div>
+                  <span
+                    class="MuiCardActionArea-focusHighlight-140"
+                  />
+                  <span
+                    class="MuiTouchRipple-root-209"
+                  />
+                </button>
+                <div
+                  class="MuiCardActions-root-178 MuiCardActions-spacing-179"
+                >
+                  <button
+                    class="MuiButtonBase-root-141 MuiButton-root-180 MuiButton-text-182 MuiButton-textPrimary-183 MuiButton-textSizeSmall-195 MuiButton-sizeSmall-201"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiButton-label-181"
+                    >
+                      Learn More
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root-209"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root-3 MuiGrid-item-5"
+            >
+              <div
+                class="MuiPaper-root-110 MuiCard-root-109 makeStyles-root-106 MuiPaper-elevation1-114 MuiPaper-rounded-111"
+              >
+                <button
+                  class="MuiButtonBase-root-141 MuiCardActionArea-root-138"
+                  tabindex="0"
+                  type="button"
+                >
+                  <div
+                    class="MuiCardMedia-root-144 makeStyles-media-107"
+                    style="background-image: url(https://cdn.pixabay.com/photo/2017/04/05/15/36/auto-2205316_960_720.jpg);"
+                    title="Contemplative Reptile"
+                  />
+                  <div
+                    class="MuiCardContent-root-147"
+                  >
+                    <h2
+                      class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                    >
+                      Porsche
+                    </h2>
+                    <h2
+                      class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                    >
+                      Cayenne Turbo
+                    </h2>
+                    <p
+                      class="MuiTypography-root-148 makeStyles-pos-108 MuiTypography-body1-150 MuiTypography-colorTextSecondary-174"
+                    >
+                      $ 11000
+                    </p>
+                  </div>
+                  <span
+                    class="MuiCardActionArea-focusHighlight-140"
+                  />
+                  <span
+                    class="MuiTouchRipple-root-209"
+                  />
+                </button>
+                <div
+                  class="MuiCardActions-root-178 MuiCardActions-spacing-179"
+                >
+                  <button
+                    class="MuiButtonBase-root-141 MuiButton-root-180 MuiButton-text-182 MuiButton-textPrimary-183 MuiButton-textSizeSmall-195 MuiButton-sizeSmall-201"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiButton-label-181"
+                    >
+                      Learn More
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root-209"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root-3 MuiGrid-item-5"
+            >
+              <div
+                class="MuiPaper-root-110 MuiCard-root-109 makeStyles-root-106 MuiPaper-elevation1-114 MuiPaper-rounded-111"
+              >
+                <button
+                  class="MuiButtonBase-root-141 MuiCardActionArea-root-138"
+                  tabindex="0"
+                  type="button"
+                >
+                  <div
+                    class="MuiCardMedia-root-144 makeStyles-media-107"
+                    style="background-image: url(https://media.istockphoto.com/photos/porsche-911-low-key-in-black-and-white-picture-id492578314);"
+                    title="Contemplative Reptile"
+                  />
+                  <div
+                    class="MuiCardContent-root-147"
+                  >
+                    <h2
+                      class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                    >
+                      Nissan
+                    </h2>
+                    <h2
+                      class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                    >
+                      GT-R
+                    </h2>
+                    <p
+                      class="MuiTypography-root-148 makeStyles-pos-108 MuiTypography-body1-150 MuiTypography-colorTextSecondary-174"
+                    >
+                      $ 80000
+                    </p>
+                  </div>
+                  <span
+                    class="MuiCardActionArea-focusHighlight-140"
+                  />
+                  <span
+                    class="MuiTouchRipple-root-209"
+                  />
+                </button>
+                <div
+                  class="MuiCardActions-root-178 MuiCardActions-spacing-179"
+                >
+                  <button
+                    class="MuiButtonBase-root-141 MuiButton-root-180 MuiButton-text-182 MuiButton-textPrimary-183 MuiButton-textSizeSmall-195 MuiButton-sizeSmall-201"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiButton-label-181"
+                    >
+                      Learn More
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root-209"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root-3 MuiGrid-item-5"
+            >
+              <div
+                class="MuiPaper-root-110 MuiCard-root-109 makeStyles-root-106 MuiPaper-elevation1-114 MuiPaper-rounded-111"
+              >
+                <button
+                  class="MuiButtonBase-root-141 MuiCardActionArea-root-138"
+                  tabindex="0"
+                  type="button"
+                >
+                  <div
+                    class="MuiCardMedia-root-144 makeStyles-media-107"
+                    style="background-image: url(https://cdn.pixabay.com/photo/2020/10/18/16/40/bmw-5665352_960_720.jpg);"
+                    title="Contemplative Reptile"
+                  />
+                  <div
+                    class="MuiCardContent-root-147"
+                  >
+                    <h2
+                      class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                    >
+                      BMW
+                    </h2>
+                    <h2
+                      class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                    >
+                      M3
+                    </h2>
+                    <p
+                      class="MuiTypography-root-148 makeStyles-pos-108 MuiTypography-body1-150 MuiTypography-colorTextSecondary-174"
+                    >
+                      $ 60500
+                    </p>
+                  </div>
+                  <span
+                    class="MuiCardActionArea-focusHighlight-140"
+                  />
+                  <span
+                    class="MuiTouchRipple-root-209"
+                  />
+                </button>
+                <div
+                  class="MuiCardActions-root-178 MuiCardActions-spacing-179"
+                >
+                  <button
+                    class="MuiButtonBase-root-141 MuiButton-root-180 MuiButton-text-182 MuiButton-textPrimary-183 MuiButton-textSizeSmall-195 MuiButton-sizeSmall-201"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiButton-label-181"
+                    >
+                      Learn More
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root-209"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root-3 MuiGrid-item-5"
+            >
+              <div
+                class="MuiPaper-root-110 MuiCard-root-109 makeStyles-root-106 MuiPaper-elevation1-114 MuiPaper-rounded-111"
+              >
+                <button
+                  class="MuiButtonBase-root-141 MuiCardActionArea-root-138"
+                  tabindex="0"
+                  type="button"
+                >
+                  <div
+                    class="MuiCardMedia-root-144 makeStyles-media-107"
+                    style="background-image: url(http://www.blogcdn.com/www.autoblog.com/media/2012/11/001-2013-audi-s5-coupe.jpg);"
+                    title="Contemplative Reptile"
+                  />
+                  <div
+                    class="MuiCardContent-root-147"
+                  >
+                    <h2
+                      class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                    >
+                      Audi
+                    </h2>
+                    <h2
+                      class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                    >
+                      S5
+                    </h2>
+                    <p
+                      class="MuiTypography-root-148 makeStyles-pos-108 MuiTypography-body1-150 MuiTypography-colorTextSecondary-174"
+                    >
+                      $ 53000
+                    </p>
+                  </div>
+                  <span
+                    class="MuiCardActionArea-focusHighlight-140"
+                  />
+                  <span
+                    class="MuiTouchRipple-root-209"
+                  />
+                </button>
+                <div
+                  class="MuiCardActions-root-178 MuiCardActions-spacing-179"
+                >
+                  <button
+                    class="MuiButtonBase-root-141 MuiButton-root-180 MuiButton-text-182 MuiButton-textPrimary-183 MuiButton-textSizeSmall-195 MuiButton-sizeSmall-201"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiButton-label-181"
+                    >
+                      Learn More
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root-209"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root-3 MuiGrid-item-5"
+            >
+              <div
+                class="MuiPaper-root-110 MuiCard-root-109 makeStyles-root-106 MuiPaper-elevation1-114 MuiPaper-rounded-111"
+              >
+                <button
+                  class="MuiButtonBase-root-141 MuiCardActionArea-root-138"
+                  tabindex="0"
+                  type="button"
+                >
+                  <div
+                    class="MuiCardMedia-root-144 makeStyles-media-107"
+                    style="background-image: url(https://cdn.pixabay.com/photo/2015/01/19/13/51/car-604019_960_720.jpg);"
+                    title="Contemplative Reptile"
+                  />
+                  <div
+                    class="MuiCardContent-root-147"
+                  >
+                    <h2
+                      class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                    >
+                      Audi
+                    </h2>
+                    <h2
+                      class="MuiTypography-root-148 MuiTypography-h5-157 MuiTypography-gutterBottom-168"
+                    >
+                      TT
+                    </h2>
+                    <p
+                      class="MuiTypography-root-148 makeStyles-pos-108 MuiTypography-body1-150 MuiTypography-colorTextSecondary-174"
+                    >
+                      $ 40000
+                    </p>
+                  </div>
+                  <span
+                    class="MuiCardActionArea-focusHighlight-140"
+                  />
+                  <span
+                    class="MuiTouchRipple-root-209"
+                  />
+                </button>
+                <div
+                  class="MuiCardActions-root-178 MuiCardActions-spacing-179"
+                >
+                  <button
+                    class="MuiButtonBase-root-141 MuiButton-root-180 MuiButton-text-182 MuiButton-textPrimary-183 MuiButton-textSizeSmall-195 MuiButton-sizeSmall-201"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiButton-label-181"
+                    >
+                      Learn More
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root-209"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
